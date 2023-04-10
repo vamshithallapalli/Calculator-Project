@@ -19,7 +19,7 @@ arr.forEach(button => {
             string = string.substring(0, string.length-1);
             input.value = string; 
         }
-        else if(e.target.innerHTML == 'S'){
+        else if(e.target.innerHTML == '^2'){
             var x = parseInt(string);
             input.value = x*x;
         }
