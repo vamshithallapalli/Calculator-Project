@@ -1,0 +1,4 @@
+- Developed and deployed a Web Calculator using JavaScript, HTML, and CSS.
+- Implemented functionality for basic mathematical operations including addition, subtraction, multiplication, and division, as well as calculating the square of a number.
+- Designed an intuitive user interface with a responsive layout to enhance user experience across different devices and screen sizes.
+- Ensured efficient performance and accurate calculations through rigorous testing.
